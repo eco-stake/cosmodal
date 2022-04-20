@@ -35,8 +35,8 @@
     "@walletconnect/client": "^1.7.7",
     "@walletconnect/types": "^1.7.7",
     "@walletconnect/utils": "^1.7.7",
-    "qrcode.react": "^3.0.0",
-    "react-modal": "^3.14.4",
+    "qrcode.react": "^3.0.1",
+    "react-modal": "https://github.com/reactjs/react-modal",
     "secretjs": "^0.17.5",
     "styled-components": "^5.3.5"
   },
